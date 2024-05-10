@@ -1,14 +1,5 @@
  Video-Summarization-Object-of-Interest
 
-
-# GUI
-
-<p align="center">
-  <img src="![Alt text](GUI/Gui1.PNG)" alt="GUI 1" style="width: 45%;">
-  <img src="![Alt text](GUI/Gui1.PNG)" alt="GUI 2" style="width: 45%;">
-</p>
- 
-
 ## Objective
 The aim of this project is to develop a deep learning-based video summarization framework that allows users to efficiently summarize large volumes of surveillance video data, focusing specifically on predefined Objects of Interest (OoI) such as persons, airplanes, mobile phones, bikes, and cars. This system is designed to streamline the process of reviewing video content from surveillance footage, crucial for enhancing security measures and operational efficiency in both public and private sectors.
 
@@ -24,7 +15,12 @@ The following diagram illustrates the architecture of the proposed framework for
 ![Proposed Architecture](![Alt text](GUI/Architecture-of-the-proposed-framework.png))
 
 This architecture is centered around the use of advanced object detection models and summarization algorithms to process and reduce large volumes of video data into concise segments that highlight critical Objects of Interest (OoI).
+# GUI
 
+<p align="center">
+  <img src="![Alt text](GUI/Gui1.PNG)" alt="GUI 1" style="width: 45%;">
+  <img src="![Alt text](GUI/Gui1.PNG)" alt="GUI 2" style="width: 45%;">
+</p>
 ## Technologies Used
 
 <p align="left">
