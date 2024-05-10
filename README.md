@@ -15,12 +15,16 @@ The following diagram illustrates the architecture of the proposed framework for
 ![Proposed Architecture](![Alt text](GUI/Architecture-of-the-proposed-framework.png))
 
 This architecture is centered around the use of advanced object detection models and summarization algorithms to process and reduce large volumes of video data into concise segments that highlight critical Objects of Interest (OoI).
+
 # GUI
 
 <p align="center">
-  <img src="![Alt text](GUI/Gui1.PNG)" alt="GUI 1" style="width: 45%;">
-  <img src="![Alt text](GUI/Gui1.PNG)" alt="GUI 2" style="width: 45%;">
+  <img src="GUI/Gui1.PNG" alt="GUI 1" style="width: 45%;">
+  <img src="GUI/Gui2.PNG" alt="GUI 2" style="width: 45%;">
 </p>
+
+
+
 ## Technologies Used
 
 <p align="left">
