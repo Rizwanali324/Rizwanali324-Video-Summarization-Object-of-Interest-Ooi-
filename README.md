@@ -30,6 +30,7 @@ original video and the output summarized video side by side for comparison:
 
 <div align='center'>
 <img src="Demo1.gif" width="80%"/>
+<video src="Results_Videos/test1.mp4" controls title="Title"></video>
 </div>
 
 
