@@ -22,11 +22,15 @@ This architecture is centered around the use of advanced object detection models
   <img src="GUI/Gui1.PNG" alt="GUI 1" style="width: 45%;">
   <img src="GUI/Gui2.PNG" alt="GUI 2" style="width: 45%;">
 </p>
+# Video Comparison
 
-<div class="video-container">
-        <video src="Results_Videos/test1.mp4" controls></video>
-        <video src="Results_Videos/test1_output.mp4" controls></video>
-</div>
+original video and the output summarized video side by side for comparison:
+
+<p align="center">
+  <video src="app/Video-Summarization-Object-of-Interest/Results_Videos/test1.mp4" controls width="45%"></video>
+  <video src="app/Video-Summarization-Object-of-Interest/Results_Videos/test1_output.mp4" controls width="45%"></video>
+</p>
+
 
 ## Technologies Used
 
