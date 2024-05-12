@@ -29,7 +29,7 @@ original video and the output summarized video side by side for comparison:
 
 
 <div align='center'>
-<img src="(Demo1.gif)" width="80%"/>
+<img src="Demo1.gif" width="80%"/>
 </div>
 
 
