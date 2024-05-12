@@ -30,6 +30,7 @@ original video and the output summarized video side by side for comparison:
 <p align="center">
 <video src="Results_Videos/test1_output.mp4" controls title="Title"></video>  
 <video src="Demo1.mp4" controls title="Title"></video>
+![Alt text](Demo1.gif)
 </p>
 
 
