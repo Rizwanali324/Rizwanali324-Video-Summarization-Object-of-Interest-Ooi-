@@ -23,17 +23,6 @@ This architecture is centered around the use of advanced object detection models
   <img src="GUI/Gui2.PNG" alt="GUI 2" style="width: 45%;">
 </p>
 
-## Video Comparison
-
-original video and the output summarized video side by side for comparison:
-
-
-<div align='center'>
-<img src="Demo1.gif" width="80%"/>
-<video src="Results_Videos/test1.mp4" controls title="Title"></video>
-</div>
-
-
 
 ## Technologies Used
 
