@@ -1,0 +1,4 @@
+tkinterweb 
+tkintermapview 
+supervision
+ultralytics
